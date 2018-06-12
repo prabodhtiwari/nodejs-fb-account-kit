@@ -17,7 +17,7 @@ node
 npm
 ```
 
-#### For running
+### For running
 
 ```
 npm install
