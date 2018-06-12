@@ -7,7 +7,17 @@ Facebook account kit example for sms login with Node.js
 Go to below link to setup an app for account-kit.
 then update config.js file with appId and appSecret.
 
-## For running
+### Prerequesties
+
+```
+node
+```
+
+```
+npm
+```
+
+#### For running
 
 ```
 npm install
