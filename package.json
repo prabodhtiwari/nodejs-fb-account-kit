@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.15.0",
-    "express": "3.x",
+    "express": "4.x",
     "guid": "0.0.12",
     "mustache": "^2.2.1",
     "querystring": "^0.2.0",
